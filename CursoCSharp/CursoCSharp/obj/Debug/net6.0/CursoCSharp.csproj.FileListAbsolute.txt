@@ -1,0 +1,15 @@
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.exe
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.deps.json
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.runtimeconfig.json
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.dll
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\bin\Debug\net6.0\ref\CursoCSharp.dll
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\bin\Debug\net6.0\CursoCSharp.pdb
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.AssemblyReference.cache
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfoInputs.cache
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.AssemblyInfo.cs
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.csproj.CoreCompileInputs.cache
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.dll
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\ref\CursoCSharp.dll
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.pdb
+E:\Cursos Programação\Curso C#\CursoCSharp\CursoCSharp\obj\Debug\net6.0\CursoCSharp.genruntimeconfig.cache
