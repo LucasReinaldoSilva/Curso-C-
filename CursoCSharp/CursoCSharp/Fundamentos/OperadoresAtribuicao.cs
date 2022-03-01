@@ -24,6 +24,17 @@ namespace CursoCSharp.Fundamentos
 
             a++;    // a = a + 1 
             b--;    // b = b - 1 
+
+            Console.WriteLine($"{a} {b}");
+
+
+            dynamic c = new System.Dynamic.ExpandoObject();
+            c.nome = "João";
+            
+            dynamic d = c;
+            d.nome = "João";
+
+            Console.WriteLine(c.nome);
         }
 
     }
