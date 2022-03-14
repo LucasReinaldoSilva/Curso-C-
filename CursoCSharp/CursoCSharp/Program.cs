@@ -12,8 +12,8 @@ namespace CursoCSharp {
 
                 //Fundamentos 
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
-                {"Comentários - Fundamentos", Comentarios.Executar },
-                {"Váriaveis e Constantes - Fundamentos", VariaveisEConstantes.Executar },
+                {"Comentários - Fundamentos", Comentarios.Executar},
+                {"Váriaveis e Constantes - Fundamentos", VariaveisEConstantes.Executar},
                 {"Inferência - Fundamentos", Inferencia.Executar },
                 {"Interpolação - Fundamentos", Interpolacao.Executar },
                 {"Notação Ponto - Fundamentos", NotacaoPonto.Executar },
@@ -43,6 +43,12 @@ namespace CursoCSharp {
                 {"Membros - Classes e Métodos", Membros.Executar },
                 {"Construtores - Classes e Métodos", Construtores.Executar },
                 {"Métodos Com Retorno - Classes e Métodos", MetodosComRetorno.Executar },
+                {"Métodos Estáticos - Classes e Métodos", MetodosEstaticos.Executar },
+                {"Atributos Estáticos - Classes e Métodos", AtribuidosEstaticos.Executar },
+                {"Desafio Atributo - Classe e Métodos", DesafioAtributo.Executar },
+                {"Params - Classes e Métodos", Params.Executar },
+                {"Parametros Nomeados  - Classes e Métodos", ParametrosNomeados.Executar},
+                {"Get e Set - Classes e Métodos", GetSet.Executar},
             }); ;
 
             central.SelecionarEExecutar();
